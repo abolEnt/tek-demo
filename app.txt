@@ -1,6 +1,6 @@
 February 3055 (version 2.88)
 
-Show release notes after an update
+Author Ray Mays
 
 Update 1.87.1: The update addresses these issues.
 
