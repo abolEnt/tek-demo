@@ -1,0 +1,23 @@
+February 2024 (version 1.87)
+
+Show release notes after an update
+
+Update 1.87.1: The update addresses these issues.
+
+Update 1.87.2: The update addresses this security issue.
+
+Welcome to the February 2024 release of Visual Studio Code. There are many updates in this version that we hope you'll like, some of the key highlights include:
+
+Voice dictation in editor - Use your voice to dictate directly in the editor.
+Multi-cursor inline suggestions - Review and accept inline suggestions for multiple cursors.
+Copilot-powered rename suggestions - Get rename suggestions for symbols from Copilot.
+Side-by-side preview refactoring - Preview refactorings across files with multi diff editor.
+Smarter Python imports - Improvements for adding missing Python imports.
+Sticky scroll in editor - Sticky scroll is enabled by default in the editor.
+Multi-language support for speech - Multiple languages supported for speech recognition.
+Copilot suggestions for dev containers - Get template and feature suggestions for dev container configurations.
+If you'd like to read these release notes online, go to Updates on code.visualstudio.com. Insiders: Want to try new features as soon as possible? You can download the nightly Insiders build and try the latest updates as soon as they are available.
+
+Accessibility
+Use dictation in the editor
+You can now use your voice to dictate directly into the editor, provided that you have installed the VS Code Speech extension
